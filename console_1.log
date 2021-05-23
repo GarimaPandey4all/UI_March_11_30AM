@@ -1,0 +1,48 @@
+a = 10
+10
+b = 12
+12
+a + b
+22
+a - b
+-2
+a / b
+0.8333333333333334
+a * b
+120
+typeof(a)
+"number"
+typeof(b)
+"number"
+c = 10.5
+10.5
+typeof(c)
+"number"
+e = 'hello'
+"hello"
+typeof(e)
+"string"
+a = '10'
+"10"
+typeof(a)
+"string"
+a + b
+"1012"
+a+b+c
+"101210.5"
+a-b
+-2
+a/b
+0.8333333333333334
+a*b
+120
+b+c+a
+"22.510"
+d = 10
+10
+a
+"10"
+a == d
+true
+a === d
+false
